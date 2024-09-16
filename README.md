@@ -1,6 +1,7 @@
 # lRM001_pegRNA_screen
 scripts related to the analysis of lRM001
 
+note: only ~3700 out of the approximately 6000 pegRNA designs in the TWIST library are related to the variant tiling screen, see _____ for details
 
 **to run demux_pegRNA_screen_2024.py:**
 
