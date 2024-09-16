@@ -16,7 +16,7 @@ with open(log_file,'w') as w:
 
 ############ UPLOAD REFERENCE TABLE ################
 
-ref_df = pd.read_excel('PEmbryo_TWIST_library_V10.xlsx')
+ref_df = pd.read_excel('lRM001_TWIST_library_V10.xlsx')
 
 ###### FUNCTIONS ########
 
