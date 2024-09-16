@@ -14,7 +14,7 @@ library_name = sys.argv[2] # example: 3018__0__HTS_RAM_062
 
 ############ UPLOAD REFERENCE TABLE ################
 
-ref_df = pd.read_excel('PEmbryo_TWIST_library_V10.xlsx')
+ref_df = pd.read_excel('lRM001_TWIST_library_V10.xlsx')
 
 ###### FUNCTIONS ########
 
